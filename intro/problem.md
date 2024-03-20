@@ -38,3 +38,7 @@ In this problem, you can easily use the built-in Python method .count() for stri
 >>> my_seq = Seq("AGTACACTGGT")
 >>> my_seq.count("A")
 ```
+
+Credit
+======
+This `problem` was from https://rosalind.info/problems/ini/
