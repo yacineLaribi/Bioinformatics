@@ -45,8 +45,8 @@ For direct access to Entrez, you can use `Biopython’s Bio`.Entrez module.
 
 The `Bio.Entrez.esearch()` function will search any of the NCBI databases. This function takes the following arguments:
 
-`db` : The database to search. For example, this field can be nucleotide for GenBank or pubmed for PubMed.
-term: The search term for the "Query" field. You can use search tags here.
+`db` : The database to search. For example, this field can be `nucleotide` for `GenBank` or `pubmed` for `PubMed`.
+`term`: The search term for the `"Query"` field. You can use search tags here.
 We will now demonstrate a quick search for the rbcL gene in corn (Zea mays):
 ```shell
 >>>from Bio import Entrez
