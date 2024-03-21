@@ -1,5 +1,5 @@
-Same Data, Different Formats
-============================
+# Same Data, Different Formats
+
 A number of different data presentation formats have been used to represent genetic strings. The history of file formats presents its own kind of evolution: 
 
 some formats have died out, being replaced by more successful ones. Three file formats are currently the most popular:
